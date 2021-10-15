@@ -1,0 +1,15 @@
+/* This is Variables for all css-files */
+
+:root {
+    --h120: 120px;
+    --h105: 105px;
+    --h90:  90px;
+    --h75:  75px;
+    --h60:  60px;
+    --h45:  45px;
+    --fsFor1920: 18px;
+    --fsFor1440: 16px;
+    --fsFor1366: 14px;
+    --fsFor1024: 12px;
+    --fsForDevice: 10px;
+}
